@@ -1,5 +1,6 @@
 # find_the_pair_game
 
-Repository ini berisikan source code game find the pair sebagai final project mata kuliah pemrograman berorientasi objek pada semester 2.
+This repository consists source files for find the pair game as final project from object oriented programming course in semester 2
 
-Game ini dicompile menggunakan compiler Microsoft C/C++ Compiler
+MVC: Microsoft C/C++ Compiler
+GCC: GNU Compiler Collection (e.g. minGW on Windows)
