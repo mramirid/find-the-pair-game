@@ -10,6 +10,8 @@ GCC: GNU Compiler Collection (e.g. minGW on Windows)
 
 > g++ -Ofast filename.cpp -o TALK_TO_THE_HAND.exe
 
+## Screenshot
+
 <p align="center">
   <img src="https://i.ibb.co/4KD5Z6W/ss-ftp.png" alt="SS FTP" border="1">
 </p>
