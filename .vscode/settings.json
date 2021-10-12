@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "ms-vscode.cpptools",
+  "conventionalCommits.scopes": [
+    "vscode"
+  ]
+}
