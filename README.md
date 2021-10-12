@@ -1,14 +1,20 @@
 # Find The Pair Game
 
-This repository contains source files for Find The Pair game as Final Project for The Object Oriented Programming Course in semester 2
+This repository contains source files for Find the Pair game as final project for the Object Oriented Programming course in the second semester
 
-CL: Microsoft C/C++ Compiler 
+## Compilation Commands
 
-> cl /EHsc /Ox /W4 /FeTALK_TO_THE_HAND.exe filename.cpp
+Microsoft C/C++ Compiler 
 
-GCC: GNU Compiler Collection (e.g. minGW on Windows) 
+``` 
+cl /EHsc /Ox /W4 /Ferun.exe ftp.cl.cpp
+```
 
-> g++ -Ofast filename.cpp -o TALK_TO_THE_HAND.exe
+GNU Compiler Collection 
+
+``` 
+g++ -Ofast ftp.gcc.cpp -o run.exe
+```
 
 ## Screenshot
 
