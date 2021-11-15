@@ -1,7 +1,5 @@
 # Find The Pair Game
 
-This repository contains source files for "Find the Pair" game as a final project for the object oriented programming course in the second semester.
-
 ## Compilation Commands
 
 Microsoft C/C++ Compiler 
